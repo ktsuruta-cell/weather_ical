@@ -3,7 +3,7 @@ PRODID:masuipeo weather - iCal weather
 VERSION:2.0
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:iCal週間天気予報(大阪)
+X-WR-CALNAME:iCal絵文字(大阪)
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma/forecast/osaka/20251227
